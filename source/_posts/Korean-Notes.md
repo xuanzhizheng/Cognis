@@ -6,6 +6,7 @@ categories:
 tags:
   - 韩语
   - 语言学习
+cover: /Cognis/img/banner-smoke.jpg
 ---
 
 # 韩语笔记

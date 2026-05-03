@@ -9,6 +9,7 @@ tags:
   - 系统
   - LTI
   - 卷积
+cover: /Cognis/img/banner-matrix.jpg
 ---
 
 # 二、LTI系统的时域分析
