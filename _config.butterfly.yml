@@ -832,8 +832,8 @@ font:
 
 # Font settings for the site title and site subtitle
 blog_title_font:
-  font_link: https://fonts.loli.net/css2?family=Caveat:wght@700&display=swap
-  font_family: "'Caveat', cursive"
+  font_link: https://fonts.loli.net/css2?family=Pacifico&display=swap
+  font_family: "'Pacifico', cursive"
 
 # The setting of divider icon
 hr_icon:
