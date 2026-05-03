@@ -1,0 +1,17 @@
+- class_name: 友链
+  class_desc: 认识的那些人，那些博客
+  link_list:
+    - name: Asuka个人站
+      link: https://www.asuka002.com/
+      avatar: https://www.asuka002.com/favicon.ico
+      descr: 模拟IC学习 / 竞赛 / 软件教程
+
+    - name: Soleil's Blog
+      link: https://xw-soleil.github.io/
+      avatar: https://xw-soleil.github.io/img/myavatar.jpg
+      descr: 数学 · 电子 · 物理 · 工程竞赛
+
+    - name: GoodNightMyLady
+      link: https://goodnightmylady.vercel.app/
+      avatar: https://goodnightmylady.vercel.app/favicon.ico
+      descr: 个人博客
