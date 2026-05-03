@@ -8,7 +8,7 @@ tags:
   - 信号
   - 系统
   - LTI
-cover: /Cognis/img/banner-earth.jpg
+cover: /img/banner-earth.jpg
 ---
 
 # 一、信号与系统的基本概念

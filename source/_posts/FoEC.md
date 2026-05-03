@@ -7,7 +7,7 @@ tags:
   - 电路
   - 模电
   - 电原
-cover: /Cognis/img/banner-circuit.jpg
+cover: /img/banner-circuit.jpg
 ---
 
 ## 电原

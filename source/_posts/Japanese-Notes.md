@@ -6,7 +6,7 @@ categories:
 tags:
   - 日语
   - 语言学习
-cover: /Cognis/img/banner-anime-city.webp
+cover: /img/banner-anime-city.webp
 ---
 
 # 日语笔记
