@@ -20,6 +20,7 @@ cover: /img/ota/ota-cadence-sizing.png
 - gm/Id 法 B 站视频：[BV1PZ4y1g7cZ](https://www.bilibili.com/video/BV1PZ4y1g7cZ/)
 - gm/Id 法文字说明：[知乎专栏](https://zhuanlan.zhihu.com/p/1899593665992696280)
 - Widlar 电流源说明：[CSDN 博文](https://blog.csdn.net/weixin_42221495/article/details/130483487)
+- 复旦大学：《二级密勒补偿运算放大器设计教程》
 
 ## gm/Id 法的核心
 
