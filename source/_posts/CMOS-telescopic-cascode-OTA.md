@@ -1,5 +1,5 @@
 ---
-title: 套筒式共源共栅 OTA 设计
+title: 全差分套筒式共源共栅结构 Cascode单级运放设计
 date: 2026-05-06 22:30:00
 categories:
   - 模拟IC
@@ -15,6 +15,12 @@ cover: /img/cascode/cascode-schematic.png
 这篇记录一次低压套筒式共源共栅全差分 OTA 的设计过程。电路工作在 $V_{DD}=1.1V$ 下，目标是开环差分小信号直流增益大于 $40dB$，单位增益带宽约 $500MHz$，负载电容 $C_L=1pF$。设计主线是：先用电压余量确定每层管子的偏置，再用 gm/Id 估算主放大器尺寸，最后加入 CMFB 并根据寄生电容迭代带宽。
 
 ![套筒式共源共栅 OTA 原理图与最终尺寸](/img/cascode/cascode-schematic.png)
+
+参考资料：
+
+- 王小桃，全差分单级运放设计：套筒式共源共栅结构 Cascode：[知乎专栏](https://zhuanlan.zhihu.com/p/1926361150477546875)
+- 王小桃，共模反馈 CMFB：[知乎专栏](https://zhuanlan.zhihu.com/p/14156382741)
+- 孙楠、刘佳欣、揭路：《现代模拟集成电路设计》
 
 ## 拓扑与指标
 
